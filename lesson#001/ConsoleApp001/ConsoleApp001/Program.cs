@@ -8,8 +8,8 @@ namespace ConsoleApp001
         {
             Console.WriteLine("Hello! What's your name?\n");
             Console.Write("Name: ");
-            string nName = Console.ReadLine();
-            Console.WriteLine($"\nNice to meet you {nName}! Today's {DateTime.Now}.");
+            string userName = Console.ReadLine();
+            Console.WriteLine($"\nNice to meet you {userName}! Today's {DateTime.Now}.");
             Console.ReadKey();
         }
     }
