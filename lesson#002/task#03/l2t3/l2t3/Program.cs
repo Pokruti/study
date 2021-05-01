@@ -2,7 +2,7 @@
 
 namespace l2t3
 {
-    class Program
+    class Program //Проверка четности введённого числа
     {
         static void Main(string[] args)
         {
