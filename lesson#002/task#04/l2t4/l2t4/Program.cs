@@ -2,7 +2,7 @@
 
 namespace l2t4
 {
-    class Program
+    class Program // Схематичный вывод на экран чека
     {
         static void Main(string[] args)
         {
