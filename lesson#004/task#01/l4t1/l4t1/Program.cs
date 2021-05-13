@@ -12,7 +12,7 @@ namespace l4t1
 
             static string GetFullName(string FirstName, string LastName, string patronymic)
             {
-                string parSeparator = " "; //Инициализация разделителя
+                string parSeparator = " "; //разделитель
                
                 string strReturn = string.Join(parSeparator, FirstName,LastName,patronymic); //Объединение строк
 
